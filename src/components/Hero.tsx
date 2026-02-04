@@ -9,7 +9,7 @@ const Hero = () => {
           All profits go to teachers and tech education
         </p>
         <a href="#interest" className="cta-button-large">
-          Get Started Today
+          Express Interest
         </a>
       </div>
     </section>
