@@ -9,7 +9,7 @@ const Footer = () => {
           tech education.
         </p>
         <p>
-          Contact: <a href="mailto:jim.hawker@folkenomics.com">jim.hawker@folkenomics.com</a>
+          Contact: <a href="mailto:j.d.hawker@gmail.com">j.d.hawker@gmail.com</a>
         </p>
       </div>
     </footer>
